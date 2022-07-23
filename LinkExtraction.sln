@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkExtraction", "LinkExtraction\LinkExtraction.csproj", "{C098844F-BBB1-420F-955E-A8EBFA881745}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkTest", "LinkTest\LinkTest.csproj", "{79A23920-AD83-4942-B2B3-72DDEBDBEA8C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C098844F-BBB1-420F-955E-A8EBFA881745} = {C098844F-BBB1-420F-955E-A8EBFA881745}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C098844F-BBB1-420F-955E-A8EBFA881745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C098844F-BBB1-420F-955E-A8EBFA881745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C098844F-BBB1-420F-955E-A8EBFA881745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C098844F-BBB1-420F-955E-A8EBFA881745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79A23920-AD83-4942-B2B3-72DDEBDBEA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A23920-AD83-4942-B2B3-72DDEBDBEA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A23920-AD83-4942-B2B3-72DDEBDBEA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A23920-AD83-4942-B2B3-72DDEBDBEA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0E2C398-CD39-47AD-8DD2-F04B6A4C8D9D}
+	EndGlobalSection
+EndGlobal
