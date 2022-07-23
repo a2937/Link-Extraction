@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot][product-screenshot]
+[![Product Name Screen Shot][product-screenshot]]
 
 This is a project inspired by the need to check to see if all the links 
 on a webpage were properly working; and the desire to get everything to work 
