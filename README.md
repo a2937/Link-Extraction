@@ -188,6 +188,6 @@ Project Link: [https://github.com/a2937/Link-Extraction](https://github.com/a293
 [issues-url]: https://github.com/a2937/Link-Extraction/issues
 [license-shield]: https://img.shields.io/github/license/a2937/Link-Extraction.svg?style=for-the-badge
 [license-url]: https://github.com/a2937/Link-Extraction/blob/master/LICENSE.txt
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/Screenshot.png
 [Dotnet]: https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
 [Dotnet-url]: https://dotnet.microsoft.com/en-us/
